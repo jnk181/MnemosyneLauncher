@@ -26,10 +26,3 @@ Bugs:
 
 For final version:
 - Symbian S60 homescreen gui
-
-Mnemosyne Music Player:
-- CD player view
-    - Spinning the CD or vinyl will seek the track
-    - CD or vinyl spins when a song is seeked with the seekbar
-- Vinyl view
-- mp3,flac,ogg,m4a file scanning
