@@ -7,6 +7,7 @@ For beta release:
 - Settings for text size
 - Highlight/focus background image for items in the main menu
 - Sound for opening and closing menu
+- User setting for changing "Android" home screen grid
 - Themes:
     - Mnemosyne theme pack: external apks that the launcher will find to pick themeable gui elements from (theme packs), they can also be used for other Mnemosyne apps
     - Icon packs: external apks which will be icon packs. Icon packs compatible with Mnemosyne should also contain icons for the main menu.
