@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mnemosyne Launcher Alpha</string>
+    <string name="frequently_used_apps">Frequently used apps</string>
+    <string name="menu_category_communications">Communications</string>
+    <string name="menu_category_media" >Media</string>
+    <string name="menu_category_organizer" >Organizer</string>
+    <string name="menu_category_internet" >Internet</string>
+    <string name="menu_category_games" >Games</string>
+    <string name="menu_category_other" >Other</string>
+    <string name="menu_item_appstore" >App Store</string>
+    <string name="menu_item_camera">Camera</string>
+    <string name="menu_item_messages">Messages</string>
+    <string name="menu_item_files">Files</string>
+    <string name="menu_item_contacts">Contacts</string>
+    <string name="menu_item_music">Music</string>
+</resources>

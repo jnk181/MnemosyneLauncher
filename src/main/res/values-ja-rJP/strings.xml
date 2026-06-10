@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mnemosyne Launcher Alpha</string>
+    <string name="frequently_used_apps">よく使うアプリ</string>
+    <string name="menu_category_communications">連絡</string>
+    <string name="menu_category_media" >メディア</string>
+    <string name="menu_category_organizer" >オルグ</string>
+    <string name="menu_category_internet" >インターネット</string>
+    <string name="menu_category_games" >ゲーム</string>
+    <string name="menu_category_other" >他のアプリ</string>
+    <string name="menu_item_appstore" >アップストア</string>
+    <string name="menu_item_camera">カメラ</string>
+    <string name="menu_item_messages">メッセージ</string>
+    <string name="menu_item_files">ファイル</string>
+    <string name="menu_item_contacts">連絡先</string>
+    <string name="menu_item_music">音楽</string>
+</resources>

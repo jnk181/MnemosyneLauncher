@@ -1,0 +1,31 @@
+<resources>
+    <style name="Base.Theme.MnemosyneLauncher" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowTranslucentNavigation">true</item>
+        <item name="android:windowDrawsSystemBarBackgrounds">true</item>
+        <item name="android:statusBarColor">#20293a</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowActivityTransitions">true</item>
+
+        <item name="colorPrimary">@android:color/holo_purple</item>
+        <item name="colorOnPrimary">@android:color/white</item>
+
+        <item name="colorSecondary">@android:color/holo_blue_light</item>
+        <item name="colorOnSecondary">@android:color/white</item>
+
+        <item name="colorSurface">@android:color/white</item>
+        <item name="colorOnSurface">@android:color/black</item>
+    </style>
+
+    <style name="Theme.MnemosyneLauncher.Nokia" parent="Theme.MnemosyneLauncher">
+        <item name="android:fontFamily">@font/nokia_sans_regular</item>
+    </style>
+
+    <style name="Theme.MnemosyneLauncher.SonyEricsson2006" parent="Theme.MnemosyneLauncher">
+        <item name="android:fontFamily">@font/andale_sans_ui_regular</item>
+    </style>
+
+    <style name="Theme.MnemosyneLauncher" parent="Base.Theme.MnemosyneLauncher" />
+</resources>

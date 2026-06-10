@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mnemosyne Launcher Alpha</string>
+    <string name="frequently_used_apps">Често коришћене апликације</string>
+    <string name="menu_category_communications">Комуникације</string>
+    <string name="menu_category_media" >Мултимедија</string>
+    <string name="menu_category_organizer" >Канцеларија</string>
+    <string name="menu_category_internet" >Интернет</string>
+    <string name="menu_category_games" >Игрице</string>
+    <string name="menu_category_other" >Остало</string>
+    <string name="menu_item_appstore" >Прод. апл.</string>
+    <string name="menu_item_camera">Камера</string>
+    <string name="menu_item_messages">Поруке</string>
+    <string name="menu_item_files">Фајлови</string>
+    <string name="menu_item_contacts">Контакти</string>
+    <string name="menu_item_music">Музика</string>
+</resources>
