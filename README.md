@@ -1,4 +1,7 @@
 Project Mnemosyne aims to bring back the customizability and beauty of retro mobile phones to Android in the age of minimalism and corporate design.
+<img src="./img/phone_examples.webp" height="150">
+
+
 The project overall is in its very early alpha stages at the moment.
 
 Don't forget to check the TODO and wiki!
