@@ -21,13 +21,22 @@ Bugs:
 - Android home screen layout isn't stretching across its entire container
 - Main menu icon pop animation is not played in the 1st run of openMainMenu() after launcher starting
 
-- Theme ideas:
-    - Sony Ericsson Clarity
-    - Sony Ericsson Floroflow
-    - Sony Ericsson Floom
-    - Sony Ericsson Female Lines
-    - Sony Ericsson Eternal
-    - Sony Ericsson
+Other apps:
+- Theme Manager: An app that will apply themes across all Mnemosyne apps. Every individual Mnemosyne app will scan for settings from this specific app and prioritize it over local-app configurations.
+    - Theme ideas:
+        - Sony Ericsson Clarity
+        - Sony Ericsson Floroflow
+        - Sony Ericsson Floom
+        - Sony Ericsson Female Lines
+        - Sony Ericsson Eternal
+        - Sony Ericsson
+    - Users should be able to choose a font in `${InternalStorageRoot}/Mnemosyne/Fonts/`
+- Phone Dialer: An app for sending and receiving calls
+- Messaging: An app for sending SMS and E-mail messages. UI should be similar to Sony Ericsson.
+- Video player: An app for playing videos. It should be based on MPV.
+- Photo viewer: It should be based
+
+
 
 For final version:
 - Symbian S60 homescreen gui

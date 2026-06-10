@@ -14,10 +14,3 @@ Discord server: https://discord.gg/3PQJvBChQe
 
 ## Other Mnemosyne projects
 - Music Player: https://github.com/jnk181/MnemosyneMusicPlayer
-
-## TODO:
-- Theme Manager: An app that will apply themes across all Mnemosyne apps. Every individual Mnemosyne app will scan for settings from this specific app and prioritize it over local-app configurations.
-- Phone Dialer: An app for sending and receiving calls
-- Messaging: An app for sending SMS and E-mail messages. UI should be similar to Sony Ericsson.
-- Video player: An app for playing videos. It should be based on MPV.
-- Photo viewer: It should be based
