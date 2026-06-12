@@ -33,10 +33,9 @@ Other apps:
     - Users should be able to choose a font in `${InternalStorageRoot}/Mnemosyne/Fonts/`
 - Phone Dialer: An app for sending and receiving calls
 - Messaging: An app for sending SMS and E-mail messages. UI should be similar to Sony Ericsson.
+- Contacts: An app for contacts. Its UI is similar to the Sony Ericsson A1/A2 and UIQ contacts app.
 - Video player: An app for playing videos. It should be based on MPV.
 - Photo viewer: It should be based
-
-
 
 For final version:
 - Symbian S60 homescreen gui
