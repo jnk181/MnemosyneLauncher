@@ -9,9 +9,6 @@ Don't forget to check the TODO and wiki!
 # Concepts
 https://www.figma.com/design/TYjFxfy6Nb7WMQ72h1EK6Q/Project-Mnemosyne-Concepts
 
-# Links
-Discord server: https://discord.gg/3PQJvBChQe
-
 ## Other Mnemosyne projects
 - Music Player: https://github.com/jnk181/MnemosyneMusicPlayer
 - Icon Packs: https://github.com/jnk181/MnemosyneIconPacks
