@@ -11,4 +11,5 @@ https://www.figma.com/design/TYjFxfy6Nb7WMQ72h1EK6Q/Project-Mnemosyne-Concepts
 
 ## Other Mnemosyne projects
 - Music Player: https://github.com/jnk181/MnemosyneMusicPlayer
+- Status Bar: https://github.com/jnk181/MnemosyneStatusBar
 - Icon Packs: https://github.com/jnk181/MnemosyneIconPacks
